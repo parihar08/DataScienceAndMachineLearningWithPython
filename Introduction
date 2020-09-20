@@ -1,0 +1,14 @@
+Most Popular Data Science Libraries:
+
+NumPy           - Scientific computing library for python that allows to work with data arrays
+                  in Python
+SciPy
+Pandas          - Data Analysis library that allows us to read and manipulate data from multiple
+                  sources including csv files, excel workbooks, HTML Web pages for Web Scraping
+                  and SQL DB
+MatplotLib      - Data Visualization
+SciKit-Learn    - To implement Machine Learning algorithm including Linear Regression, Logistic
+                  Regression, classification techniques
+Seaborn         - For Beautiful Statistical plots. Interactive plotting techniques
+Plotly
+PySpark

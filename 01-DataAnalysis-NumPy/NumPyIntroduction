@@ -1,0 +1,14 @@
+NumPy is a Linear Algebra Library for Python. Almost all of the libraries in the PyData
+ecosystem rely on NumPy as one of their main building blocks
+
+NumPy is incredibly fast as it has bindings to C libraries
+
+pip3 install numpy
+
+NumPy arrays are the main way we use NumPy
+
+NumPy arrays essentially comes in 2 flavours: Vectors and Matrices
+
+Vectors are strictly 1-D arrays and Matrices are 2-D
+
+(Matrices can only have one row or one column)

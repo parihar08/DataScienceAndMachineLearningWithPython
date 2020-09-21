@@ -1,0 +1,21 @@
+Pandas is an open source library built on top of NumPy (Python's version of R)
+
+It allows for fast analysis and data cleaning and preparation
+
+It excels in performance and productivity
+
+It has also built in data visualization features
+
+It can work with data from wide variety of sources
+
+pip3 install pandas
+
+Interaction of following with Pandas:
+
+-Series
+-Data Frames
+-Missing Data
+-GroupBy
+-Merging, Joining and Concatenating Data Frames
+-Operations
+-Data Input and Output for csv, excel, SQL files

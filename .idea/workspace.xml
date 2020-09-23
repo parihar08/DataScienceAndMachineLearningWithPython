@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7c3c168-262f-4a55-a5e3-4710ec5e9028" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-DataAnalysis-Pandas/DataFrames1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-DataAnalysis-Pandas/DataFrames2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-DataAnalysis-Pandas/PandasIntroduction" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-DataAnalysis-Pandas/Series.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-DataAnalysis-Pandas/DataFrames3.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,11 +62,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DataFrames2.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DataFrames2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02-DataAnalysis-Pandas/DataFrames2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="254" column="50" lean-forward="true" selection-start-line="254" selection-start-column="50" selection-end-line="254" selection-end-column="50" />
+            <state relative-caret-position="456">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="56" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataFrames3.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02-DataAnalysis-Pandas/DataFrames3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -134,6 +143,7 @@
         <option value="$PROJECT_DIR$/02-DataAnalysis-Pandas/Series.py" />
         <option value="$PROJECT_DIR$/02-DataAnalysis-Pandas/DataFrames1.py" />
         <option value="$PROJECT_DIR$/02-DataAnalysis-Pandas/DataFrames2.py" />
+        <option value="$PROJECT_DIR$/02-DataAnalysis-Pandas/DataFrames3.py" />
       </list>
     </option>
   </component>
@@ -343,8 +353,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02-DataAnalysis-Pandas/DataFrames2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="254" column="50" lean-forward="true" selection-start-line="254" selection-start-column="50" selection-end-line="254" selection-end-column="50" />
+        <state relative-caret-position="456">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-DataAnalysis-Pandas/DataFrames3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
